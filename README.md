@@ -23,7 +23,7 @@ Esta es una aplicación móvil desarrollada con React Native que permite a los u
 1. **Clonar el Repositorio:** Clona este repositorio en tu máquina local utilizando el siguiente comando:
 
     ```
-    git clone <URL_del_repositorio>
+    git clone https://github.com/tonyvillegas91/Prueba-Tecnica-React-Native.git
     ```
 
 2. **Instalar Dependencias:** Navega hasta el directorio del proyecto y ejecuta el siguiente comando para instalar todas las dependencias necesarias:
