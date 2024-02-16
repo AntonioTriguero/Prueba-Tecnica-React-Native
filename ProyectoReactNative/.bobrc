@@ -1,0 +1,4 @@
+# Configuración de bob
+
+# Comando para compilar la aplicación
+build = ./build.sh
